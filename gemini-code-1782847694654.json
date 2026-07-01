@@ -1,6 +1,0 @@
-[
-  { "regla": "ACTIVA", "item": 1, "site": "SA705", "estado": "OK", "ip": "10.8.1.112", "fecha": "22-ENERO-2026", "fases": "230-231-222", "contratista": "A&G", "novedad": "las medidas conisiden con reveal" },
-  { "regla": "INACTIVA", "item": 24, "site": "SA740", "estado": "PENDIENTE REVISITA", "ip": "10.8.1.133", "fecha": "13-FEBRERO-2026", "fases": "209-211-226", "contratista": "A&G", "novedad": "las medidas conisiden con reveal perdio comunicacion" },
-  { "regla": "ACTIVA", "item": 61, "site": "CNT", "estado": "PROGRAMAR", "ip": "", "fecha": "", "fases": "", "contratista": "A&G", "novedad": "" },
-  { "regla": "ACTIVA", "item": 65, "site": "RS515", "estado": "OK", "ip": "10.8.1.60", "fecha": "11/10/2024", "fases": "222-", "contratista": "A&G", "novedad": "las medidas conisiden con reveal" }
-]
